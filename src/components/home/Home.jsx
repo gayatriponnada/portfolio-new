@@ -28,7 +28,7 @@ const Home = () => {
   return (
     <div className="w-full flex justify-start items-start flex-col gap-8">
       <div className="text-5xl font-md dark:text-white flex justify-start items-center gap-2">
-        Gayatri Lavanyasdfsf{" "}
+        Gayatri Lavanya{" "}
         <span className="text-5xl font-md dark:text-fuchsia-700">Ponnada</span>
       </div>
       <div className="w-full flex justify-start items-start gap-8">
